@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 name = "xy_singleton"
 
 authors = [
-    {name = "yuyangit", email = "yuyangit.0515@qq.com"},
+    {name = "余洋", email = "yuyangit.0515@qq.com"},
 ]
 description = "Python单例的几种实现方式"
 
