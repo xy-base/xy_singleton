@@ -4,17 +4,15 @@
 - [繁体中文](README_zh_TW.md)
 - [English](README_en.md)
 
-
 ## Description
 Singleton Tools.
-
 
 ## Source Code Repositories
 
 - <a href="https://github.com/xy-base/xy_singleton.git" target="_blank">Github</a>  
 - <a href="https://gitee.com/xy-base/xy_singleton.git" target="_blank">Gitee</a>
 
-## 安装
+## Installation
 
 ```bash
 # bash
@@ -23,9 +21,8 @@ pip install xy_singleton
 
 ## How to use
 
-###### python script
-
 ```python
+# Python解释器 (Python Interpreter)
 from xy_singleton.Decorators import singleton, Singleton
 
 @singleton
@@ -77,13 +74,10 @@ Foo_1().count
 ## License
 xy_singleton is licensed under the <Mulan Permissive Software License，Version 2>. See the [LICENSE](../LICENSE) file for more info.
 
-
 ## Donate
 
 If you think these tools are pretty good, Can you please have a cup of coffee?  
-
 ![Pay-Total](./Pay-Total.png)  
-
 
 ## Contact
 

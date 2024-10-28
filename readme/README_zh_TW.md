@@ -29,9 +29,8 @@ pip install xy_singleton
 
 ## 使用
 
-###### python腳本
-
 ```python
+# Python解释器 (Python Interpreter)
 from xy_singleton.Decorators import singleton, Singleton
 
 @singleton
